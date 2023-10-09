@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/IbroA2q6FjmuqFp5RPcTaw48OtF8PheKJRFI+9d3tF2GZhUplUHmMN8NcHKT4adwSVJ2bzuB+dNzYBpKvZKiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bripo\\source\\repos\\TP_Labo_2_Sysacad\\Libreria_Clases_TP_SYSACAD\\Libreria_Clases_TP_SYSACAD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bripo\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
